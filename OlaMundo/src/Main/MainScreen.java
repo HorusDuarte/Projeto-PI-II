@@ -1,11 +1,11 @@
 package Main;
-import View.MainScreenJF;
+import View.JFMainScreen;
 
 public class MainScreen {
 
     public static void main(String[] args) {
      
-      new MainScreenJF().setVisible(true);
+      new JFMainScreen().setVisible(true);
        
         
     }

@@ -16,6 +16,6 @@ public class Costumer {
     private String clientDistrict;
     private String clientState;
     private String clientCity;
-    private String clienteTel;
+    private String clientTel;
     
 }
